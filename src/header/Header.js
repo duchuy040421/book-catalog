@@ -132,7 +132,7 @@ function Header() {
             </div>
 
             <div className="column is-full is-clipped pt-0">
-                <img className="box" src="https://i.pinimg.com/736x/1c/64/c2/1c64c25b533d17337878a99c65b04479--twitter-cover-photos-cover-pics.jpg" />
+                <img className="box" src="https://media.istockphoto.com/photos/open-book-and-steaming-cup-of-coffee-on-wooden-table-picture-id1334372779?b=1&k=20&m=1334372779&s=170667a&w=0&h=lfTulHKBslG9K9UFwiV6IaM9B5eRM7wIGgWYr-BNb9A=" />
             </div>
             <div className="column is-full level">
                 <div className="level-item has-text-centered">
