@@ -31,6 +31,8 @@ function Header() {
                 publishedYear: ''
             })
 
+            alert('Please enter valid year!!!')
+
             return
         }
 
@@ -39,6 +41,8 @@ function Header() {
                 ...newBook,
                 rating: ''
             })
+
+            alert('Rating star from 0-9 only!!!')
 
             return
         }

@@ -31,7 +31,7 @@ const findGoodBook = (books)=>{
     let max = 0
     const yearNow = new Date().getFullYear()
 
-    result = books.filter((element)=>yearNow - +element.publishedYear<=3)
+    result = books.filter((element)=>(yearNow - +element.publishedYear)<=3)
     
     result.forEach(element => {
         if(+element.rating>max)
